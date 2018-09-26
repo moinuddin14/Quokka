@@ -1,3 +1,10 @@
+<span style="font-family: 'Trebuchet MS'; font-size: 1em;">Quokka VSCode Extension</span>
+---
+---
+<span style="font-family: 'Trebuchet MS'; font-size: 1em;">Khaja M Mohammed</span>
+<span style="font-family: 'Trebuchet MS'; font-size: 0.5em;">Sep 09, 2018</span>
+---
+
 ## Welcome... 
 
 Let's learn about <strong>QUOKKA</strong>
